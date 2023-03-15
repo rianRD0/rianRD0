@@ -20,3 +20,6 @@
 <br/>
 <br/>
 I am an eternal student of programming in love with technology.
+
+## Top technologies
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianRD0)](https://github.com/anuraghazra/github-readme-stats)
