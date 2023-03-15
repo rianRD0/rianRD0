@@ -18,9 +18,12 @@
   <img align="center" alt="nodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-<br/>
-<br/>
-I am an eternal student of programming in love with technology.
 
-## Top technologies
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianRD0)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
+I am an eternal student of programming in love with technology. 🔥
+
